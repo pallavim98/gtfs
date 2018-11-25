@@ -1,4 +1,4 @@
-# gtfs-gt-File-System-
+# gtfs
 gtfs is a simple file system(similar to EXT2) implemented in C 
 
 ## gtfs LAYOUT
